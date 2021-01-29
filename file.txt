@@ -1,0 +1,5 @@
+example.com {“ttl”: 300, “addr”: “127.0.0.1”, “type”: “A”, “class”: “IN”}
+xyz.com
+{“ttl”: 1200, “addr”: “24.36.127.15”, “type”: “A”, “class”: “IN”}
+supermail.tw
+{“ttl”: 600, “addr”: “62.77.109.93”, “type”: “A”, “class”: “IN”}
